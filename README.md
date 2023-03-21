@@ -78,7 +78,7 @@
 ```
 2. Buatlah file css dengan nama “Style.css”  
 3. Silahkan buat kode css dengan menggunakan property pada materi yang telah dipelajari sehingga hasilnya akan seperti gambar dibawah ini:  
-![tugas 5 css](tugas5css.png)
+![tugas 5 css](tugas5css.PNG)
 
 Link Gambar :
 
